@@ -1,0 +1,63 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja /Users/kate/Desktop/TechProg/lab-1/task1/CSharpCpp
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+-- The C compiler identification is unknown
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+sh: ps: command not found
+-- The CXX compiler identification is unknown
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_C_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CC" or the CMake cache entry CMAKE_C_COMPILER to the full path to
+  the compiler, or to the compiler name if it is in the PATH.
+
+
+CMake Error at CMakeLists.txt:2 (project):
+  No CMAKE_CXX_COMPILER could be found.
+
+  Tell CMake where to find the compiler by setting either the environment
+  variable "CXX" or the CMake cache entry CMAKE_CXX_COMPILER to the full path
+  to the compiler, or to the compiler name if it is in the PATH.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/Users/kate/Desktop/TechProg/lab-1/task1/CSharpCpp/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "/Users/kate/Desktop/TechProg/lab-1/task1/CSharpCpp/cmake-build-debug/CMakeFiles/CMakeError.log".

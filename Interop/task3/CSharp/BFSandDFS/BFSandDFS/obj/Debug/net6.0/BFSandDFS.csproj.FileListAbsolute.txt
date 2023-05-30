@@ -1,0 +1,15 @@
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/bin/Debug/net6.0/BFSandDFS
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/bin/Debug/net6.0/BFSandDFS.deps.json
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/bin/Debug/net6.0/BFSandDFS.runtimeconfig.json
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/bin/Debug/net6.0/BFSandDFS.dll
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/bin/Debug/net6.0/BFSandDFS.pdb
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.csproj.AssemblyReference.cache
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.AssemblyInfoInputs.cache
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.AssemblyInfo.cs
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.csproj.CoreCompileInputs.cache
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.dll
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/refint/BFSandDFS.dll
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.pdb
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/BFSandDFS.genruntimeconfig.cache
+/Users/kate/Desktop/TechProg/lab-1/task3/CSharp/BFSandDFS/BFSandDFS/obj/Debug/net6.0/ref/BFSandDFS.dll

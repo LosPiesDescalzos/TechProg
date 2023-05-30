@@ -1,0 +1,1 @@
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchmark.A: DefaultJob' will not be executed

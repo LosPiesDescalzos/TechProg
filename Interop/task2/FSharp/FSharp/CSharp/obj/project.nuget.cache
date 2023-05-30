@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PQnQlrNvAITGXWQVkx4w+SCais7LBiJIFCopmI+XTePfh3vRSMhcbWivs2r1VUr6Q3Mxd6nBqH9SkFieN3IMJg==",
+  "success": true,
+  "projectFilePath": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/CSharp/CSharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/kate/.nuget/packages/fsharp.core/6.0.2/fsharp.core.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

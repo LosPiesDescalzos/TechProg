@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/CSharp/CSharp.csproj": {}
+  },
+  "projects": {
+    "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/CSharp/CSharp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/CSharp/CSharp.csproj",
+        "projectName": "CSharp",
+        "projectPath": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/CSharp/CSharp.csproj",
+        "packagesPath": "/Users/kate/.nuget/packages/",
+        "outputPath": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/CSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/FSharp.fsproj": {
+                "projectPath": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/FSharp.fsproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/kate/.dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/FSharp.fsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/FSharp.fsproj",
+        "projectName": "FSharp",
+        "projectPath": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/FSharp.fsproj",
+        "packagesPath": "/Users/kate/.nuget/packages/",
+        "outputPath": "/Users/kate/Desktop/TechProg/lab-1/task2/FSharp/FSharp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FSharp.Core": {
+              "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[6.0.2, )",
+              "generatePathProperty": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/kate/.dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

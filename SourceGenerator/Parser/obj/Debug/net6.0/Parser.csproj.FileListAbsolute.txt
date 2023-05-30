@@ -1,0 +1,15 @@
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/bin/Debug/net6.0/Parser
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/bin/Debug/net6.0/Parser.deps.json
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/bin/Debug/net6.0/Parser.runtimeconfig.json
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/bin/Debug/net6.0/Parser.dll
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/bin/Debug/net6.0/Parser.pdb
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.csproj.AssemblyReference.cache
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.AssemblyInfoInputs.cache
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.AssemblyInfo.cs
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.csproj.CoreCompileInputs.cache
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.dll
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/refint/Parser.dll
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.pdb
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/Parser.genruntimeconfig.cache
+/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/Debug/net6.0/ref/Parser.dll

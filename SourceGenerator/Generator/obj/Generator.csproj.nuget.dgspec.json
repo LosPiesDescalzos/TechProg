@@ -1,0 +1,130 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Generator/Generator.csproj": {}
+  },
+  "projects": {
+    "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Generator/Generator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Generator/Generator.csproj",
+        "projectName": "Generator",
+        "projectPath": "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Generator/Generator.csproj",
+        "packagesPath": "/Users/kate/.nuget/packages/",
+        "outputPath": "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Generator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/Parser.csproj": {
+                "projectPath": "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/Parser.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.CodeAnalysis": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Microsoft.CodeAnalysis.CSharp": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            },
+            "Microsoft.CodeAnalysis.Common": {
+              "target": "Package",
+              "version": "[3.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/kate/.dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/Parser.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/Parser.csproj",
+        "projectName": "Parser",
+        "projectPath": "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/Parser.csproj",
+        "packagesPath": "/Users/kate/.nuget/packages/",
+        "outputPath": "/Users/kate/Desktop/TechProg/lab-2/SourceGenerator/Parser/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/kate/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/Users/kate/.dotnet/sdk/6.0.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,2 @@
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchmark.BenchmarkStandartSort: DefaultJob [arraySize=100]' will not be executed
+BenchmarkDotNet requires dotnet cli to be installed or path to local dotnet cli provided in explicit way using `--cli` argument, benchmark 'Benchmark.BenchmarkStandartSort: DefaultJob [arraySize=10000]' will not be executed
